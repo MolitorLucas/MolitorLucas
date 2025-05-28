@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Lucas, Sou Desenvolvedor de Jogos e Desenvolvedor Fullstack. Estou no terceiro ano do curso de Ciência da Computação, trabalho com desenvolvimento desktop para a companhia de rodeios CRP e também faço parte do projeto de desenvolvimento de jogos Lacottick.</p>
+<p align="left">Meu nome é Lucas, Sou Desenvolvedor de Jogos e Desenvolvedor Fullstack. Estou no quarto e último ano do curso de Ciência da Computação, trabalho com desenvolvimento web para a <a href="https://ciandt.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN7lJ6vF9uw7JAM9LKJHq5xpqWcYx2PReNBw&s" height="25" alt="CI&T logo"></a> e também faço parte do projeto de desenvolvimento de jogos <a href="https://www.instagram.com/lacottickrpg/" target="_blank">Lacottick</a>.</p>
 
 ###
 
@@ -43,6 +43,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge" height="30" alt="react logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="30" alt="nestjs logo"  />
   <img width="12" />
