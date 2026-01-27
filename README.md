@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Lucas, Sou Desenvolvedor de Jogos e Desenvolvedor Fullstack. Estou no quarto e último ano do curso de Ciência da Computação, trabalho com desenvolvimento web para a <a href="https://ciandt.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN7lJ6vF9uw7JAM9LKJHq5xpqWcYx2PReNBw&s" height="25" alt="CI&T logo"></a> e também faço parte do projeto de desenvolvimento de jogos <a href="https://www.instagram.com/lacottickrpg/" target="_blank">Lacottick</a>.</p>
+<p align="left">Meu nome é Lucas, Sou Desenvolvedor de Jogos e Desenvolvedor Fullstack. Sou formado em Ciência da Computação, trabalho com desenvolvimento web para a <a href="https://ciandt.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN7lJ6vF9uw7JAM9LKJHq5xpqWcYx2PReNBw&s" height="25" alt="CI&T logo"></a> e também faço parte do projeto de desenvolvimento de jogos <a href="https://www.instagram.com/lacottickrpg/" target="_blank">Lacottick</a>.</p>
 
 ###
 
